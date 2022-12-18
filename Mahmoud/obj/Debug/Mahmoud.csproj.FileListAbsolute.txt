@@ -1,0 +1,8 @@
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\bin\Debug\Mahmoud.exe.config
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\bin\Debug\Mahmoud.exe
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\bin\Debug\Mahmoud.pdb
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\obj\Debug\Mahmoud.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\obj\Debug\Mahmoud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\obj\Debug\Mahmoud.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\obj\Debug\Mahmoud.exe
+C:\Users\Mahmoud\source\repos\Mahmoud\Mahmoud\obj\Debug\Mahmoud.pdb
